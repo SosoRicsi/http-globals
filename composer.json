@@ -1,0 +1,19 @@
+{
+    "name": "basicphp/superglobals",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BasicPHP\\Superglobals\\": "superglobals/"
+        },
+        "files": [
+            "./helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Jarkó Richárd",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "require": {}
+}
