@@ -1,6 +1,6 @@
 <?php
 
-use BasicPHP\Superglobals\Session;
+use SosoRicsi\Superglobals\Session;
 
 if (!function_exists("session")) {
 	function session(string $key, $default = '') {

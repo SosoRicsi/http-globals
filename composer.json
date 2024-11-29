@@ -1,9 +1,9 @@
 {
-    "name": "basicphp/superglobals",
+    "name": "sosoricsi/superglobals",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "BasicPHP\\Superglobals\\": "superglobals/"
+            "SosoRicsi\\Superglobals\\": "superglobals/"
         },
         "files": [
             "./helpers.php"
